@@ -14,6 +14,7 @@
 - 💬 Ask me about **React.js**
 - 📫 How to reach me **alifaizanch3101@gmail.com**
 
+
 ---
 
 <h3 align="left">Connect with Me:</h3>
@@ -34,7 +35,38 @@
   </a>
 </p>
 
+
 ---
+
+<h3 align="left">&#x270d; Some of My Work:</h3>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- Repository 1 -->
+  <a href="https://github.com/Muhammad-Faizan-Alam/construction-company-project" target="_blank" style="text-decoration: none;">
+    <div style="width: 200px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+      <h4 style="text-align: center;">This project is developed with Next.js + RTK + MUI</h4>
+      <img src="https://github.com/Muhammad-Faizan-Alam/construction-company-project" alt="Repository 1" style="width: 100%; border-radius: 8px;"/>
+    </div>
+  </a>
+
+  <!-- Repository 2 -->
+  <a href="https://github.com/your-username/repository-2" target="_blank" style="text-decoration: none;">
+    <div style="width: 200px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+      <h4 style="text-align: center;">Repository 2</h4>
+      <img src="https://raw.githubusercontent.com/your-username/repository-2/main/screenshot.png" alt="Repository 2" style="width: 100%; border-radius: 8px;"/>
+    </div>
+  </a>
+
+  <!-- Repository 3 -->
+  <a href="https://github.com/your-username/repository-3" target="_blank" style="text-decoration: none;">
+    <div style="width: 200px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+      <h4 style="text-align: center;">Repository 3</h4>
+      <img src="https://raw.githubusercontent.com/your-username/repository-3/main/screenshot.png" alt="Repository 3" style="width: 100%; border-radius: 8px;"/>
+    </div>
+  </a>
+</p>
+
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
