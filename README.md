@@ -16,10 +16,21 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/muhammad-faizan-alam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" />
+<h3 align="left">Connect with Me:</h3>
+<p align="left" style="display: flex; gap: 15px;">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/muhammad-faizan-alam" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="40" width="40" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:alifaizanch3101@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="40" width="40" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/923184757136" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
 </p>
 
