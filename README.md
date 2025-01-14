@@ -1,3 +1,5 @@
+![logo](https://github.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/blob/main/linkedin%20bg%20img.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Alam</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
