@@ -38,38 +38,23 @@
 
 ---
 
-<h3 align="left">&#x270d; Some of My Work:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <!-- Repository 1 -->
-  <a href="https://github.com/Muhammad-Faizan-Alam/construction-company-project" target="_blank" style="text-decoration: none;">
-    <div style="width: 200px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
-      <h4 style="text-align: center;">This project is developed with Next.js + RTK + MUI</h4>
-      <img src="https://github.com/Muhammad-Faizan-Alam/construction-company-project" alt="Repository 1" style="width: 100%; border-radius: 8px;"/>
-    </div>
-  </a>
+<h3 align="center">&#x270d; Some of My Work</h3>
 
-  <!-- Repository 2 -->
-  <a href="https://github.com/your-username/repository-2" target="_blank" style="text-decoration: none;">
-    <div style="width: 200px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
-      <h4 style="text-align: center;">Repository 2</h4>
-      <img src="https://raw.githubusercontent.com/your-username/repository-2/main/screenshot.png" alt="Repository 2" style="width: 100%; border-radius: 8px;"/>
-    </div>
-  </a>
-
-  <!-- Repository 3 -->
-  <a href="https://github.com/your-username/repository-3" target="_blank" style="text-decoration: none;">
-    <div style="width: 200px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
-      <h4 style="text-align: center;">Repository 3</h4>
-      <img src="https://raw.githubusercontent.com/your-username/repository-3/main/screenshot.png" alt="Repository 3" style="width: 100%; border-radius: 8px;"/>
-    </div>
-  </a>
+<p align=center>
+    <a href="https://github.com/Muhammad-Faizan-Alam/construction-company-project">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=construction-company-project&cache_seconds=86400&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=Muhammad-Faizan-Alam&cache_seconds=86400&theme=tokyonight" />
+    </a>
 </p>
+
 
 ---
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50" />
   </a>
