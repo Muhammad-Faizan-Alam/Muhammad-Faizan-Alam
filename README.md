@@ -41,11 +41,17 @@
 <h3 align="center">&#x270d; Some of My Work</h3>
 
 <p align=center>
+    <a href="https://github.com/Muhammad-Faizan-Alam/financial-dashboard">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=financial-dashboard&cache_seconds=86400&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/Muhammad-Faizan-Alam/mystery-message-app">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=mystery-message-app&cache_seconds=86400&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/Muhammad-Faizan-Alam/Quotes-App">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=Quotes-App&cache_seconds=86400&theme=tokyonight" />
+    </a>
     <a href="https://github.com/Muhammad-Faizan-Alam/construction-company-project">
         <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=construction-company-project&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=Muhammad-Faizan-Alam&cache_seconds=86400&theme=tokyonight" />
     </a>
 </p>
 
