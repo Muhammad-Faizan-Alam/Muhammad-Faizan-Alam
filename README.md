@@ -67,6 +67,9 @@
     <a href="https://github.com/Muhammad-Faizan-Alam/yarn-calculator">
         <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=yarn-calculator&cache_seconds=86400&theme=tokyonight" />
     </a>
+  <a href="https://github.com/Muhammad-Faizan-Alam/blog">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=blog&cache_seconds=86400&theme=tokyonight" />
+    </a>
 </p>
 
 
