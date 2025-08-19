@@ -18,9 +18,12 @@
 
 ## 🌐 **Let's Connect**
 
+<br>
+<br>
+
 <div align="center">
-  <a href="https://github.com/Muhammad-Faizan-Alam">
-    <img src="https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://wa.me/+923184757136">
+    <img src= "https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" >
   </a>
   <a href="https://www.linkedin.com/in/faizan-alam-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -32,6 +35,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </div>
+
 
 
 ---
