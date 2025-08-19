@@ -16,23 +16,22 @@
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left" style="display: flex; gap: 15px;">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/muhammad-faizan-alam" target="_blank" style="margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="40" width="40" />
+## 🌐 **Let's Connect**
+
+<div align="center">
+  <a href="https://github.com/Muhammad-Faizan-Alam">
+    <img src="https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  
-  <!-- Email -->
-  <a href="mailto:alifaizanch3101@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/faizan-alam-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  
-  <!-- WhatsApp -->
-  <a href="https://wa.me/923184757136" target="_blank" style="margin-right: 10px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
+  <a href="https://faizan-portfolio-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
   </a>
-</p>
+  <a href="mailto:alifaizanch3101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</div>
 
 
 ---
