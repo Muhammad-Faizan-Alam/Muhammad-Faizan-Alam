@@ -1,4 +1,4 @@
-![logo](https://github.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/blob/main/linkedin%20bg%20img.png?raw=true)
+![logo](https://github.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/blob/main/banner.png?raw=true)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=0077FF&amp;size=18&amp;lines=Hey!+It's+Muhammad+Faizan+Alam!;Full-Stack+Web-Developer...🏻‍💻;" style="width: 100%;">
 
