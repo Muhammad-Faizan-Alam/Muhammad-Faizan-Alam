@@ -1,0 +1,67 @@
+# =====================================================================
+# SETUP INSTRUCTIONS — read this before using
+# =====================================================================
+# 1. In your profile repo (Muhammad-Faizan-Alam/Muhammad-Faizan-Alam),
+#    create the folder: .github/workflows/
+# 2. Place THIS FILE at: .github/workflows/generate-stats.yml
+# 3. Go to GitHub → Settings → Developer Settings → Personal Access Tokens
+#    → Fine-grained tokens → Generate new token
+#    Permissions needed: Read access to "metadata" and "contents" (public repos only is fine)
+# 4. In your profile repo → Settings → Secrets and variables → Actions
+#    → New repository secret → Name: GH_TOKEN → Value: your token
+# 5. Push the workflow file. It runs daily at midnight UTC, or manually.
+# 6. After first run, two SVG files appear in the "output" branch:
+#      stats-card.svg
+#      langs-card.svg
+#    These are referenced in your README automatically.
+# =====================================================================
+
+name: Generate GitHub Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"       # Runs every day at midnight UTC
+  workflow_dispatch:           # Allows manual trigger from Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: Muhammad-Faizan-Alam
+          theme: tokyonight
+          hide_border: true
+          include_all_commits: true
+          card_type: stats
+        env:
+          INPUT_GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate top languages card
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: Muhammad-Faizan-Alam
+          theme: tokyonight
+          hide_border: true
+          card_type: top-langs
+          langs_count: 8
+          layout: compact
+        env:
+          INPUT_GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit SVGs to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats-card.svg langs-card.svg || true
+          git commit -m "chore: update stats SVGs [skip ci]" || exit 0
+          git push origin HEAD:output --force
