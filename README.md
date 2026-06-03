@@ -1,141 +1,211 @@
-![logo](https://github.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/blob/main/banner.png?raw=true)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=0077FF&amp;size=18&amp;lines=Hey!+It's+Muhammad+Faizan+Alam!;Full-Stack+Web-Developer...🏻‍💻;" style="width: 100%;">
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=muhammad-faizan-alam&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-faizan-alam" />
-</p>
-
-- 💻 I’m currently working on **Next.js** and **MERN Stack**
-- 💬 Ask me about **Web Development**
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/faizan-alam-dev)
-- 📫 How to reach me *alifaizanch3101@gmail.com*
-
----
-<br>
-
-
-## 🌐 **Let's Connect**
-
-<br>
-<br>
-
 <div align="center">
-  <a href="https://wa.me/+923184757136">
-    <img src= "https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" >
-  </a>
-  <a href="https://www.linkedin.com/in/faizan-alam-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://faizan-portfolio-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
-  </a>
-  <a href="mailto:alifaizanch3101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+
+<!-- Capsule Render Header -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C6FF&height=200&section=header&text=Muhammad%20Faizan%20Alam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Next.js%20%7C%20MERN%20Stack&descAlignY=55&descAlign=50)](https://faizan-portfolio-rho.vercel.app/)
+
+<!-- Typing SVG (demolab — actively maintained) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077FF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Muhammad+Faizan+Alam+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+MERN+Stack+Specialist;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
+---
 
+## 👨‍💻 About Me
+
+```ts
+const faizan = {
+  name:       "Muhammad Faizan Alam",
+  role:       "Full-Stack Web Developer",
+  stack:      ["Next.js", "React", "Node.js", "MongoDB", "TypeScript"],
+  tools:      ["Docker", "Git", "Redux Toolkit", "Tailwind CSS"],
+  currently:  "Building scalable web apps with Next.js & MERN",
+  contact:    "alifaizanch3101@gmail.com",
+  portfolio:  "https://faizan-portfolio-rho.vercel.app/",
+};
+```
 
 ---
 
-<h3 align="center">&#x270d; Some of My Work</h3>
+## 🌐 Connect With Me
 
-<p align=center>
-    <a href="https://github.com/Muhammad-Faizan-Alam/pharmacy">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=pharmacy&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/my_portfolio">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=my_portfolio&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/auth">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=auth&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/inventory-management">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=inventory-management&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/financial-dashboard">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=financial-dashboard&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/mystery-message-app">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=mystery-message-app&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/Quotes-App">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=Quotes-App&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/construction-company-project">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=construction-company-project&cache_seconds=86400&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/yarn-calculator">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=yarn-calculator&cache_seconds=86400&theme=tokyonight" />
-    </a>
-  <a href="https://github.com/Muhammad-Faizan-Alam/blog">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=blog&cache_seconds=86400&theme=tokyonight" />
-    </a>
-</p>
+<div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923184757136)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-alam-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faizan-portfolio-rho.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifaizanch3101@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Faizan-Alam)
+
+</div>
 
 ---
 
+## 🛠️ Tech Stack & Tools
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50" />
-  </a>
-  <a href="https://https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB" width="50" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux-Toolkit">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
-    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="50" height="50" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
-  </a>
-</p>
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**State Management & Tools**
+
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammad-faizan-alam&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
+## 📊 GitHub Stats
 
-<h3 align="left">Languages Used:</h3>
-<p align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-faizan-alam&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
+<div align="center">
 
-<h3 align="left">Contributions:</h3>
-<p align="center">
-  <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-faizan-alam&" alt="GitHub streaks" />
-</p>
+<!-- Self-hosted via GitHub Actions — these SVGs live in YOUR repo, never breaks -->
+<img width="49%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/output/stats-card.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/output/langs-card.svg" />
+
+</div>
+
+<div align="center">
+
+<!-- streak-stats.demolab.com — the reliable maintained fork -->
+<img width="60%" src="https://streak-stats.demolab.com?user=muhammad-faizan-alam&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-faizan-alam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Faizan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-faizan-alam&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- shields.io GitHub repo badges — 100% reliable, always works, no 3rd party needed -->
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💊 Pharmacy Management</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Faizan-Alam/pharmacy">
+          <img src="https://img.shields.io/badge/View_Repo-pharmacy-0077FF?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Muhammad-Faizan-Alam/pharmacy?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/github/forks/Muhammad-Faizan-Alam/pharmacy?style=flat-square&color=blue" />
+        <img src="https://img.shields.io/github/last-commit/Muhammad-Faizan-Alam/pharmacy?style=flat-square&color=green" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 Inventory Management</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Faizan-Alam/inventory-management">
+          <img src="https://img.shields.io/badge/View_Repo-inventory--management-0077FF?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Muhammad-Faizan-Alam/inventory-management?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/github/forks/Muhammad-Faizan-Alam/inventory-management?style=flat-square&color=blue" />
+        <img src="https://img.shields.io/github/last-commit/Muhammad-Faizan-Alam/inventory-management?style=flat-square&color=green" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 Financial Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Faizan-Alam/financial-dashboard">
+          <img src="https://img.shields.io/badge/View_Repo-financial--dashboard-0077FF?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Muhammad-Faizan-Alam/financial-dashboard?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/github/forks/Muhammad-Faizan-Alam/financial-dashboard?style=flat-square&color=blue" />
+        <img src="https://img.shields.io/github/last-commit/Muhammad-Faizan-Alam/financial-dashboard?style=flat-square&color=green" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔮 Mystery Message App</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Faizan-Alam/mystery-message-app">
+          <img src="https://img.shields.io/badge/View_Repo-mystery--message--app-0077FF?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Muhammad-Faizan-Alam/mystery-message-app?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/github/forks/Muhammad-Faizan-Alam/mystery-message-app?style=flat-square&color=blue" />
+        <img src="https://img.shields.io/github/last-commit/Muhammad-Faizan-Alam/mystery-message-app?style=flat-square&color=green" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 My Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Faizan-Alam/my_portfolio">
+          <img src="https://img.shields.io/badge/View_Repo-my__portfolio-0077FF?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Muhammad-Faizan-Alam/my_portfolio?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/github/forks/Muhammad-Faizan-Alam/my_portfolio?style=flat-square&color=blue" />
+        <img src="https://img.shields.io/github/last-commit/Muhammad-Faizan-Alam/my_portfolio?style=flat-square&color=green" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏗️ Construction Company</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Faizan-Alam/construction-company-project">
+          <img src="https://img.shields.io/badge/View_Repo-construction--company-0077FF?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Muhammad-Faizan-Alam/construction-company-project?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/github/forks/Muhammad-Faizan-Alam/construction-company-project?style=flat-square&color=blue" />
+        <img src="https://img.shields.io/github/last-commit/Muhammad-Faizan-Alam/construction-company-project?style=flat-square&color=green" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077FF&height=120&section=footer)](https://github.com/Muhammad-Faizan-Alam)
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammad-faizan-alam&label=Profile+Views&color=0077FF&style=flat-square)
+
+⭐ **If you like my work, consider starring some repos!**
+
+</div>
