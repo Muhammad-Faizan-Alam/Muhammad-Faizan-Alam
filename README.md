@@ -73,8 +73,8 @@ const faizan = {
 <div align="center">
 
 <!-- Self-hosted via GitHub Actions — these SVGs live in YOUR repo, never breaks -->
-<img width="49%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/output/stats-card.svg" />
-<img width="49%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/output/langs-card.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/stats-card.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/langs-card.svg" />
 
 </div>
 
@@ -91,7 +91,7 @@ const faizan = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-faizan-alam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Muhammad-Faizan-Alam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
