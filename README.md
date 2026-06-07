@@ -48,8 +48,10 @@ const faizan = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend & Database**
@@ -57,14 +59,22 @@ const faizan = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-**State Management & Tools**
+**AI & Automation**
 
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logoColor=white)
+
+**Tools & Other Skills**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Logic Building](https://img.shields.io/badge/Logic_Building-5B4FD6?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0052CC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -73,20 +83,24 @@ const faizan = {
 <div align="center">
 
 <!-- Self-hosted via GitHub Actions — these SVGs live in YOUR repo, never breaks -->
-<img width="49%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/stats-card.svg" />
-<img width="49%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/langs-card.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/stats-card.svg" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/langs-card.svg" />
 
 </div>
 
 <div align="center">
 
 <!-- streak-stats.demolab.com — the reliable maintained fork -->
-<img width="60%" src="https://streak-stats.demolab.com?user=muhammad-faizan-alam&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://streak-stats.demolab.com?user=muhammad-faizan-alam&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
