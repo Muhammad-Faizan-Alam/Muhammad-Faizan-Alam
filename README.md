@@ -83,20 +83,20 @@ const faizan = {
 <div align="center">
 
 <!-- Self-hosted via GitHub Actions — these SVGs live in YOUR repo, never breaks -->
-<img width="100%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/stats-card.svg" />
+<img width="70%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/stats-card.svg" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/langs-card.svg" />
+<img width="70%" src="https://raw.githubusercontent.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam/main/langs-card.svg" />
 
 </div>
 
 <div align="center">
 
 <!-- streak-stats.demolab.com — the reliable maintained fork -->
-<img width="100%" src="https://streak-stats.demolab.com?user=muhammad-faizan-alam&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=muhammad-faizan-alam&theme=tokyonight&hide_border=true" />
 
 </div>
 
