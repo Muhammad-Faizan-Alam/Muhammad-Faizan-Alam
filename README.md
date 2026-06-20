@@ -78,6 +78,101 @@ const faizan = {
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+> 🔒 **Note:** These projects are from private repositories.
+> To explore public work, visit the **[Repositories](https://github.com/Muhammad-Faizan-Alam?tab=repositories)** tab on my profile.
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ CattleCare</h3>
+      <p>Full-stack dairy farm management system with real-time milk production tracking, cattle health records, breeding logs, and AI Agents to forecast milk production and AI insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      </p>
+      <a href="https://cattle-care-five.vercel.app/login">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 ErasmusReviews</h3>
+      <p>The first platform where young people can evaluate and share their Erasmus+ experiences, helping others make informed decisions about their European adventures.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Lottie_React-00DDB3?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nodemailer-22B573?style=flat-square&logo=maildotru&logoColor=white"/>
+      </p>
+      <a href="https://erasmus-review-v1.vercel.app">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Bookalogue</h3>
+      <p>Personal book discussing app with PDF rendering, Clerk-powered authentication, and a clean reading tracker — built with shadcn UI and MongoDB for persistent collections.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vapi_AI-5B4FD6?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://bookalogue.vercel.app">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+  <h3>🖥️ macOS Portfolio</h3>
+  <p>Interactive macOS-style portfolio with a fully functional desktop — draggable project directories, multi-window management, and fluid GSAP animations for an immersive browsing experience.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Immer-00E7C3?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react--pdf-E84393?style=flat-square&logoColor=white"/>
+  </p>
+  <a href="https://portfoliofaizandev.vercel.app">🔗 View Project</a>
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏘️ RealEstate</h3>
+      <p>Find Your Dream Home in UAE. You can search area in UAE and then find available properties with 10km radius. RABC for buyer/seller, agents and agencies.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white"/>
+      </p>
+      <a href="https://real-estate-omega-roan.vercel.app">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+  <h3>🧪 Auxiltex</h3>
+  <p>Professional marketing site for a textile chemical solutions company — featuring smooth Framer Motion animations, a modern Next.js 16 architecture, and Vercel Analytics for performance insights.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel_Analytics-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </p>
+  <a href="https://www.auxiltex.com/">🔗 Live Site</a>
+</td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
