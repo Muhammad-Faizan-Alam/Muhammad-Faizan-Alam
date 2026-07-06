@@ -20,7 +20,7 @@ const faizan = {
   tools:      ["Docker", "Git", "Redux Toolkit", "Tailwind CSS"],
   currently:  "Building scalable web apps with Next.js & MERN",
   contact:    "alifaizanch3101@gmail.com",
-  portfolio:  "https://faizan-portfolio-rho.vercel.app/",
+  portfolio:  "https://portfoliofaizandev.vercel.app",
 };
 ```
 
