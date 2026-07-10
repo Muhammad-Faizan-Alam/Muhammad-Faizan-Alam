@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```ts
 const faizan = {
@@ -26,7 +26,7 @@ const faizan = {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -40,7 +40,7 @@ const faizan = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Frontend**
 
@@ -78,7 +78,7 @@ const faizan = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -177,7 +177,7 @@ const faizan = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -200,7 +200,7 @@ const faizan = {
 </div>
 
 ---
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -210,7 +210,7 @@ const faizan = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
