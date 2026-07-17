@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C6FF&height=200&section=header&text=Muhammad%20Faizan%20Alam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Next.js%20%7C%20MERN%20Stack&descAlignY=55&descAlign=50)](https://faizan-portfolio-rho.vercel.app/)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:18a336,100:00ff36&height=200&section=header&text=Muhammad%20Faizan%20Alam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Next.js%20%7C%20MERN%20Stack&descAlignY=55&descAlign=50)](https://faizanalam.dev)
 
 <!-- Typing SVG (demolab — actively maintained) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077FF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Muhammad+Faizan+Alam+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+MERN+Stack+Specialist;Love+to+work+with+LLMs+and+Agentic+AI;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=18a336&center=true&vCenter=true&width=500&lines=Hey!+I'm+Muhammad+Faizan+Alam+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+MERN+Stack+Specialist;Love+to+work+with+LLMs+and+Agentic+AI;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
