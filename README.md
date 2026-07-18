@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:18a336,100:00ff36&height=200&section=header&text=Muhammad%20Faizan%20Alam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Next.js%20%7C%20MERN%20Stack&descAlignY=55&descAlign=50)](https://faizanalam.dev)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:686968,100:000&height=200&section=header&text=Muhammad%20Faizan%20Alam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Next.js%20%7C%20MERN%20Stack&descAlignY=55&descAlign=50)](https://faizanalam.dev)
 
 <!-- Typing SVG (demolab — actively maintained) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=18a336&center=true&vCenter=true&width=500&lines=Hey!+I'm+Muhammad+Faizan+Alam+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+MERN+Stack+Specialist;Love+to+work+with+LLMs+and+Agentic+AI;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=686968&center=true&vCenter=true&width=500&lines=Hey!+I'm+Muhammad+Faizan+Alam+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+MERN+Stack+Specialist;Love+to+work+with+LLMs+and+Agentic+AI;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -222,7 +222,7 @@ const faizan = {
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077FF&height=120&section=footer)](https://github.com/Muhammad-Faizan-Alam)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:686968&height=120&section=footer)](https://github.com/Muhammad-Faizan-Alam)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammad-faizan-alam&label=Profile+Views&color=0077FF&style=flat-square)
 
