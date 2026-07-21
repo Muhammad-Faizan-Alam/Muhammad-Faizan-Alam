@@ -137,7 +137,7 @@ const faizan = {
     </td>
     <td width="50%" valign="top">
   <h3>🖥️ macOS Portfolio</h3>
-  <p>Interactive macOS-style portfolio with a fully functional desktop — draggable project directories, multi-window management, and fluid GSAP animations for an immersive browsing experience.</p>
+  <p>Interactive macOS-style portfolio with a fully functional & responsive design — draggable project directories, multi-window management, and fluid GSAP animations for an immersive browsing experience.</p>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
