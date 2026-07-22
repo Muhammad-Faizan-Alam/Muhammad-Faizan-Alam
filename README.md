@@ -15,8 +15,8 @@
 ```ts
 const faizan = {
   name:       "Muhammad Faizan Alam",
-  role:       "Full-Stack Web Developer",
-  stack:      ["Next.js", "React", "Node.js", "MongoDB", "TypeScript"],
+  role:       "Full-Stack Web Developer with AI/Automation Integration",
+  stack:      ["Next.js", "React", "Node.js", "MongoDB", "TypeScript", "n8n", "Agents with Custom python + OpenAI SDK"],
   tools:      ["Docker", "Git", "Redux Toolkit", "Tailwind CSS"],
   currently:  "Building scalable web apps with Next.js & MERN",
   contact:    "alifaizanch3101@gmail.com",
